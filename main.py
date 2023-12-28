@@ -4,7 +4,6 @@ import asyncio
 import discord
 import docx
 import io
-import io
 import json
 import os
 import random
@@ -16,7 +15,6 @@ from dotenv import load_dotenv
 import re
 from discord.ext import commands
 from discord import Embed, app_commands
-from discord.ext import commands
 from gasmii import text_model, image_model
 
 import discord
